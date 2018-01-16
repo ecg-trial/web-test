@@ -1,1 +1,13 @@
 phraseapp:
+  access_token: 131557e24b4f833631975392e19af67d237039278200d196192cc078a8353eca
+  project_id: 7cf21d2abae3135afafaea0fa44f3ed8
+  push:
+    sources:
+    - file: ./locales/<locale_name>/translations.json
+      params:
+        file_format: i18next
+  pull:
+    targets:
+    - file: ./locales/<locale_name>/translations.json
+      params:
+        file_format: i18next
