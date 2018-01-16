@@ -7,7 +7,7 @@
   "super": {
     "complex": {
       "string": "<strong>1 BLA</strong>",
-      "string_plural": "<strong>veel BLAs</strong>"
+      "string_plural": "<strong>{{count}} BLAs</strong>"
     }
   }
 }
