@@ -10,7 +10,7 @@
   },
   "super": {
     "complex": {
-      "string": "<strong>1 BLA</strong>",
+      "string": "<strong onclick=\"alert('xss')\">1 BLA</strong>",
       "string_plural": "<strong>{{count}} BLAs</strong>"
     }
   }
