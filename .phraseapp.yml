@@ -1,4 +1,5 @@
 phraseapp:
+  project_id: 7cf21d2abae3135afafaea0fa44f3ed8
   push:
     sources:
     - file: ./locales/<locale_name>/translations.json
