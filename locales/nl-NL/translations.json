@@ -3,5 +3,11 @@
     "ad": {
       "reserve": "Reserveer"
     }
+  },
+  "super": {
+    "complex": {
+      "string": "<strong>1 BLA</strong>",
+      "string_plural": "<strong>many BLAs</strong>"
+    }
   }
 }
